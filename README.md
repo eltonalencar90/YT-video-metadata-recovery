@@ -1,6 +1,9 @@
 # YT-video-metadata-recovery
 Este é um report, desenvolvido em Python na plataforma Google Colaboratory, que nos permite buscar uma lista de no máx 50 vídeos do Youtube, com seus respectivos metadados (ou seja, 'id', 'title', 'channel', 'date_p', 'description', 'views', 'likes', 'dislikes', 'comments'); além dos seus captions (transcripts/subtitles), quando disponível.
 
+Google Colab --> [Extração de metadados de videos do youtube-v1.0]
+
+
 <h2>Most important links!</h2>
 <h3>Google colab</h3>
 É um ambiente de desenvolvimento Python, que é executado diretamente no Browser comum (Chrome, Firefox, etc).
